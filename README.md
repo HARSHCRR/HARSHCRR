@@ -32,9 +32,9 @@ const gunjan = {
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/harshsh50757882)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/HarshSh50757882)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunjan-shrivastava-5b2aba2b2/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/certpboy)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/certpboy/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunjan.h.shrivastava@gmail.com)
 
 </div>
@@ -45,9 +45,9 @@ const gunjan = {
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/harshcrr)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/harshcrr)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/harshcrr)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harshshrivastavaa/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/certpboy)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/CERTPBOY)
 
 </div>
 
@@ -57,9 +57,9 @@ const gunjan = {
 
 | Platform | Stats |
 |----------|-------|
-| **LeetCode** | ![LeetCode Stats](https://leetcard.jacoblin.cool/harshcrr?theme=dark&font=Ubuntu&ext=heatmap) |
-| **CodeChef** | ![CodeChef](https://img.shields.io/badge/Rating-⭐_Update_Your_Rating-brown?style=flat-square) |
-| **Codeforces** | ![Codeforces](https://img.shields.io/badge/Rating-⭐_Update_Your_Rating-blue?style=flat-square) |
+| **LeetCode** | ![LeetCode Stats](https://leetcard.jacoblin.cool/harshshrivastavaa?theme=dark&font=Ubuntu&ext=heatmap) |
+| **CodeChef** | ![CodeChef](https://img.shields.io/badge/dynamic/json?url=https://codechef-api.vercel.app/certpboy&query=currentRating&label=Rating&color=brown&style=flat-square&logo=codechef) |
+| **Codeforces** | ![Codeforces](https://img.shields.io/badge/dynamic/json?url=https://codeforces-readme-stats.vercel.app/api/rating?username=CERTPBOY&label=Rating&color=blue&style=flat-square&logo=codeforces) |
 
 </div>
 
