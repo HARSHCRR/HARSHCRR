@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Gunjan Shrivastava
 
-### 💫 Passionate Frontend Developer | Competitive Programmer | Trading Enthusiast
+### 💫 Passionate Developer | Competitive Programmer | Trading Enthusiast
 
 <img src="https://komarev.com/ghpvc/?username=harshcrr&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 
