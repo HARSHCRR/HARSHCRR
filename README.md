@@ -27,9 +27,8 @@ public:
     vector<string> interests = {
         "Software Engineering",
         "Artificial Intelligence",
-        "Backend Development",
         "Competitive Programming",
-        "Distributed Systems",
+        "Low-latency Systems",
         "Algorithmic Trading"
     };
 
